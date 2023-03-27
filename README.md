@@ -4,6 +4,7 @@
 - 👨‍🎓 Estudando HTML, CSS, JavaScript e React
 - 💬 Email: johnatan_pereira@hotmail.com
 - 👨‍🎓 Formado em Gestão da tecnologia da informação
+- 👨‍🎓 Estudante DevClub com mentor Rodolfo Mori
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JohnatanChagas&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
