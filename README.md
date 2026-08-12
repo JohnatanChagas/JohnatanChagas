@@ -3,7 +3,7 @@
 - 💼 Hoje trabalho com front-end
 - 👨‍🎓 Estudando HTML, CSS, JavaScript, node e React
 - 💬 Email: johnatan_pereira@hotmail.com
-- - 👨‍🎓 Cursando Análises e Desenvolvimentos de Sistemas
+- 👨‍🎓 Cursando Análises e Desenvolvimentos de Sistemas
 - 👨‍🎓 Formado em Gestão da tecnologia da informação
 - 👨‍🎓 Estudante DevClub com mentor Rodolfo Mori
 
